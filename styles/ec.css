@@ -1,0 +1,10 @@
+.main-form {
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+}
+.registration, .inscription {
+    padding: 10px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius:1rem;
+}
